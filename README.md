@@ -33,4 +33,4 @@ This project aims to improve _speed_ worldwide.
 
 # Inspiration
 
-Thanks to this article https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/ and this post on Y-Combinator https://news.ycombinator.com/item?id=29237644 I learned the necessary skills to unfairly advertise my barely working 600 lines project as heaps faster than one of the best software in the world, developed by thousands of skilled people in twenty years.
+Thanks to this article https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/ and this post on Y-Combinator https://news.ycombinator.com/item?id=29237644 I learned the necessary skills to unfairly advertise my barely working 600 lines project as better and faster than one of the best software in the world, developed by thousands of skilled people in twenty years.
